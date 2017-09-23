@@ -1,0 +1,7 @@
+D:\Training\Training\wordInPlural\bin\Debug\wordInPlural.exe.config
+D:\Training\Training\wordInPlural\bin\Debug\wordInPlural.exe
+D:\Training\Training\wordInPlural\bin\Debug\wordInPlural.pdb
+D:\Training\Training\wordInPlural\obj\Debug\wordInPlural.csprojResolveAssemblyReference.cache
+D:\Training\Training\wordInPlural\obj\Debug\wordInPlural.csproj.CoreCompileInputs.cache
+D:\Training\Training\wordInPlural\obj\Debug\wordInPlural.exe
+D:\Training\Training\wordInPlural\obj\Debug\wordInPlural.pdb

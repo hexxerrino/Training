@@ -1,0 +1,6 @@
+D:\Training\Training\Restaurant_Discount\bin\Debug\Restaurant_Discount.exe.config
+D:\Training\Training\Restaurant_Discount\bin\Debug\Restaurant_Discount.exe
+D:\Training\Training\Restaurant_Discount\bin\Debug\Restaurant_Discount.pdb
+D:\Training\Training\Restaurant_Discount\obj\Debug\Restaurant_Discount.csproj.CoreCompileInputs.cache
+D:\Training\Training\Restaurant_Discount\obj\Debug\Restaurant_Discount.exe
+D:\Training\Training\Restaurant_Discount\obj\Debug\Restaurant_Discount.pdb
