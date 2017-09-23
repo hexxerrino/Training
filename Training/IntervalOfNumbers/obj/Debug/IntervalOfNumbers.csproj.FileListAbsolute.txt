@@ -1,0 +1,6 @@
+D:\Training\Training\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe.config
+D:\Training\Training\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe
+D:\Training\Training\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.pdb
+D:\Training\Training\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.csproj.CoreCompileInputs.cache
+D:\Training\Training\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.exe
+D:\Training\Training\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.pdb

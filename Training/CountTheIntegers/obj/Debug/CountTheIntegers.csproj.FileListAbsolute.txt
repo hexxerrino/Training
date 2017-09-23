@@ -1,0 +1,7 @@
+D:\Training\Training\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+D:\Training\Training\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+D:\Training\Training\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+D:\Training\Training\CountTheIntegers\obj\Debug\CountTheIntegers.csprojResolveAssemblyReference.cache
+D:\Training\Training\CountTheIntegers\obj\Debug\CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\Training\Training\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+D:\Training\Training\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

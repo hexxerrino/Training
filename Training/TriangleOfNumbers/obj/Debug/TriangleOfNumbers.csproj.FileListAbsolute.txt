@@ -1,0 +1,6 @@
+D:\Training\Training\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+D:\Training\Training\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+D:\Training\Training\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+D:\Training\Training\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Training\Training\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+D:\Training\Training\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb
