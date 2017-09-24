@@ -1,0 +1,7 @@
+D:\Training\Training\TestNumbers\bin\Debug\TestNumbers.exe.config
+D:\Training\Training\TestNumbers\bin\Debug\TestNumbers.exe
+D:\Training\Training\TestNumbers\bin\Debug\TestNumbers.pdb
+D:\Training\Training\TestNumbers\obj\Debug\TestNumbers.csprojResolveAssemblyReference.cache
+D:\Training\Training\TestNumbers\obj\Debug\TestNumbers.csproj.CoreCompileInputs.cache
+D:\Training\Training\TestNumbers\obj\Debug\TestNumbers.exe
+D:\Training\Training\TestNumbers\obj\Debug\TestNumbers.pdb

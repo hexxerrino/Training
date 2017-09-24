@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "Triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferentNumbers", "DifferentNumbers\DifferentNumbers.csproj", "{AED6769C-57BD-41C9-8085-C6A508B24D19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNumbers", "TestNumbers\TestNumbers.csproj", "{41E41997-868A-41BD-996F-60ED16308B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfNumbers", "GameOfNumbers\GameOfNumbers.csproj", "{FF5EE9BE-2B6A-41FF-81AD-8946737884B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{AED6769C-57BD-41C9-8085-C6A508B24D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED6769C-57BD-41C9-8085-C6A508B24D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED6769C-57BD-41C9-8085-C6A508B24D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E41997-868A-41BD-996F-60ED16308B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E41997-868A-41BD-996F-60ED16308B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E41997-868A-41BD-996F-60ED16308B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E41997-868A-41BD-996F-60ED16308B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5EE9BE-2B6A-41FF-81AD-8946737884B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5EE9BE-2B6A-41FF-81AD-8946737884B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5EE9BE-2B6A-41FF-81AD-8946737884B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5EE9BE-2B6A-41FF-81AD-8946737884B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

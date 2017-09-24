@@ -1,0 +1,7 @@
+D:\Training\Training\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+D:\Training\Training\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+D:\Training\Training\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+D:\Training\Training\GameOfNumbers\obj\Debug\GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\Training\Training\GameOfNumbers\obj\Debug\GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\Training\Training\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+D:\Training\Training\GameOfNumbers\obj\Debug\GameOfNumbers.pdb
