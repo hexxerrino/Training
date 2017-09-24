@@ -1,0 +1,7 @@
+D:\Training\Training\DifferentNumbers\bin\Debug\DifferentNumbers.exe.config
+D:\Training\Training\DifferentNumbers\bin\Debug\DifferentNumbers.exe
+D:\Training\Training\DifferentNumbers\bin\Debug\DifferentNumbers.pdb
+D:\Training\Training\DifferentNumbers\obj\Debug\DifferentNumbers.csprojResolveAssemblyReference.cache
+D:\Training\Training\DifferentNumbers\obj\Debug\DifferentNumbers.csproj.CoreCompileInputs.cache
+D:\Training\Training\DifferentNumbers\obj\Debug\DifferentNumbers.exe
+D:\Training\Training\DifferentNumbers\obj\Debug\DifferentNumbers.pdb
