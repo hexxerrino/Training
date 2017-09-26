@@ -1,0 +1,7 @@
+D:\Training\Training\MagicLetter\bin\Debug\MagicLetter.exe.config
+D:\Training\Training\MagicLetter\bin\Debug\MagicLetter.exe
+D:\Training\Training\MagicLetter\bin\Debug\MagicLetter.pdb
+D:\Training\Training\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+D:\Training\Training\MagicLetter\obj\Debug\MagicLetter.csproj.CoreCompileInputs.cache
+D:\Training\Training\MagicLetter\obj\Debug\MagicLetter.exe
+D:\Training\Training\MagicLetter\obj\Debug\MagicLetter.pdb

@@ -1,0 +1,7 @@
+D:\Training\Training\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+D:\Training\Training\NeighbourWars\bin\Debug\NeighbourWars.exe
+D:\Training\Training\NeighbourWars\bin\Debug\NeighbourWars.pdb
+D:\Training\Training\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+D:\Training\Training\NeighbourWars\obj\Debug\NeighbourWars.csproj.CoreCompileInputs.cache
+D:\Training\Training\NeighbourWars\obj\Debug\NeighbourWars.exe
+D:\Training\Training\NeighbourWars\obj\Debug\NeighbourWars.pdb
