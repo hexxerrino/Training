@@ -1,7 +1,1 @@
 nothing to see here!
-<<<<<<< HEAD
-
-asdfasdfsd
-=======
-asdfasd
->>>>>>> 9a8960c3670a5f6c3568ec9b2d983ab6c4734a3c
