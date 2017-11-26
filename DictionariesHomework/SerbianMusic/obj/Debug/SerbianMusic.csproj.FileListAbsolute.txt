@@ -1,0 +1,7 @@
+D:\Training\DictionariesHomework\SerbianMusic\bin\Debug\SerbianMusic.exe.config
+D:\Training\DictionariesHomework\SerbianMusic\bin\Debug\SerbianMusic.exe
+D:\Training\DictionariesHomework\SerbianMusic\bin\Debug\SerbianMusic.pdb
+D:\Training\DictionariesHomework\SerbianMusic\obj\Debug\SerbianMusic.csprojResolveAssemblyReference.cache
+D:\Training\DictionariesHomework\SerbianMusic\obj\Debug\SerbianMusic.csproj.CoreCompileInputs.cache
+D:\Training\DictionariesHomework\SerbianMusic\obj\Debug\SerbianMusic.exe
+D:\Training\DictionariesHomework\SerbianMusic\obj\Debug\SerbianMusic.pdb

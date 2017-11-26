@@ -1,0 +1,7 @@
+D:\Training\DictionariesHomework\DictionariesHomework\obj\Debug\DictionariesHomework.csprojResolveAssemblyReference.cache
+D:\Training\DictionariesHomework\DictionariesHomework\obj\Debug\DictionariesHomework.csproj.CoreCompileInputs.cache
+D:\Training\DictionariesHomework\DictionariesHomework\bin\Debug\DictionariesHomework.exe.config
+D:\Training\DictionariesHomework\DictionariesHomework\bin\Debug\DictionariesHomework.exe
+D:\Training\DictionariesHomework\DictionariesHomework\bin\Debug\DictionariesHomework.pdb
+D:\Training\DictionariesHomework\DictionariesHomework\obj\Debug\DictionariesHomework.exe
+D:\Training\DictionariesHomework\DictionariesHomework\obj\Debug\DictionariesHomework.pdb

@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\NumsInReversedOrder\bin\Debug\NumsInReversedOrder.exe.config
+D:\Training\MethodsHomework\NumsInReversedOrder\bin\Debug\NumsInReversedOrder.exe
+D:\Training\MethodsHomework\NumsInReversedOrder\bin\Debug\NumsInReversedOrder.pdb
+D:\Training\MethodsHomework\NumsInReversedOrder\obj\Debug\NumsInReversedOrder.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\NumsInReversedOrder\obj\Debug\NumsInReversedOrder.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\NumsInReversedOrder\obj\Debug\NumsInReversedOrder.exe
+D:\Training\MethodsHomework\NumsInReversedOrder\obj\Debug\NumsInReversedOrder.pdb

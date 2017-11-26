@@ -1,0 +1,7 @@
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\bin\Debug\Dictionaries, Lambda, LINQ Training.exe.config
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\bin\Debug\Dictionaries, Lambda, LINQ Training.exe
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\bin\Debug\Dictionaries, Lambda, LINQ Training.pdb
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\obj\Debug\Dictionaries, Lambda, LINQ Training.csprojResolveAssemblyReference.cache
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\obj\Debug\Dictionaries, Lambda, LINQ Training.csproj.CoreCompileInputs.cache
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\obj\Debug\Dictionaries, Lambda, LINQ Training.exe
+D:\Training\LINQ\Dictionaries, Lambda, LINQ Training\Dictionaries, Lambda, LINQ Training\obj\Debug\Dictionaries, Lambda, LINQ Training.pdb

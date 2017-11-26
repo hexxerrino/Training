@@ -1,0 +1,7 @@
+D:\Training\REGEXTraining\REGEXTraining\bin\Debug\REGEXTraining.exe.config
+D:\Training\REGEXTraining\REGEXTraining\bin\Debug\REGEXTraining.exe
+D:\Training\REGEXTraining\REGEXTraining\bin\Debug\REGEXTraining.pdb
+D:\Training\REGEXTraining\REGEXTraining\obj\Debug\REGEXTraining.csprojResolveAssemblyReference.cache
+D:\Training\REGEXTraining\REGEXTraining\obj\Debug\REGEXTraining.csproj.CoreCompileInputs.cache
+D:\Training\REGEXTraining\REGEXTraining\obj\Debug\REGEXTraining.exe
+D:\Training\REGEXTraining\REGEXTraining\obj\Debug\REGEXTraining.pdb

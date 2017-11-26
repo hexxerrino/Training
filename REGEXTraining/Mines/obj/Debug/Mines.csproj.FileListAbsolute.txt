@@ -1,0 +1,7 @@
+D:\Training\REGEXTraining\Mines\bin\Debug\Mines.exe.config
+D:\Training\REGEXTraining\Mines\bin\Debug\Mines.exe
+D:\Training\REGEXTraining\Mines\bin\Debug\Mines.pdb
+D:\Training\REGEXTraining\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+D:\Training\REGEXTraining\Mines\obj\Debug\Mines.csproj.CoreCompileInputs.cache
+D:\Training\REGEXTraining\Mines\obj\Debug\Mines.exe
+D:\Training\REGEXTraining\Mines\obj\Debug\Mines.pdb

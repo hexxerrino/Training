@@ -1,0 +1,7 @@
+D:\Training\ExamTraining2\FootballStandings\bin\Debug\FootballStandings.exe.config
+D:\Training\ExamTraining2\FootballStandings\bin\Debug\FootballStandings.exe
+D:\Training\ExamTraining2\FootballStandings\bin\Debug\FootballStandings.pdb
+D:\Training\ExamTraining2\FootballStandings\obj\Debug\FootballStandings.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining2\FootballStandings\obj\Debug\FootballStandings.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining2\FootballStandings\obj\Debug\FootballStandings.exe
+D:\Training\ExamTraining2\FootballStandings\obj\Debug\FootballStandings.pdb

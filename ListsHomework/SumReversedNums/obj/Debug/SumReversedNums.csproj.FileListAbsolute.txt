@@ -1,0 +1,7 @@
+D:\Training\ListsHomework\SumReversedNums\bin\Debug\SumReversedNums.exe.config
+D:\Training\ListsHomework\SumReversedNums\bin\Debug\SumReversedNums.exe
+D:\Training\ListsHomework\SumReversedNums\bin\Debug\SumReversedNums.pdb
+D:\Training\ListsHomework\SumReversedNums\obj\Debug\SumReversedNums.csprojResolveAssemblyReference.cache
+D:\Training\ListsHomework\SumReversedNums\obj\Debug\SumReversedNums.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\SumReversedNums\obj\Debug\SumReversedNums.exe
+D:\Training\ListsHomework\SumReversedNums\obj\Debug\SumReversedNums.pdb

@@ -1,0 +1,7 @@
+D:\Training\ExamTraining1\ExamTraining1\bin\Debug\ExamTraining1.exe.config
+D:\Training\ExamTraining1\ExamTraining1\bin\Debug\ExamTraining1.exe
+D:\Training\ExamTraining1\ExamTraining1\bin\Debug\ExamTraining1.pdb
+D:\Training\ExamTraining1\ExamTraining1\obj\Debug\ExamTraining1.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining1\ExamTraining1\obj\Debug\ExamTraining1.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining1\ExamTraining1\obj\Debug\ExamTraining1.exe
+D:\Training\ExamTraining1\ExamTraining1\obj\Debug\ExamTraining1.pdb

@@ -1,0 +1,7 @@
+D:\Training\DictLINQPractice\LogsAgregator\bin\Debug\LogsAgregator.exe.config
+D:\Training\DictLINQPractice\LogsAgregator\bin\Debug\LogsAgregator.exe
+D:\Training\DictLINQPractice\LogsAgregator\bin\Debug\LogsAgregator.pdb
+D:\Training\DictLINQPractice\LogsAgregator\obj\Debug\LogsAgregator.csprojResolveAssemblyReference.cache
+D:\Training\DictLINQPractice\LogsAgregator\obj\Debug\LogsAgregator.csproj.CoreCompileInputs.cache
+D:\Training\DictLINQPractice\LogsAgregator\obj\Debug\LogsAgregator.exe
+D:\Training\DictLINQPractice\LogsAgregator\obj\Debug\LogsAgregator.pdb

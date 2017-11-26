@@ -1,0 +1,7 @@
+D:\Training\ExamTraining2\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+D:\Training\ExamTraining2\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+D:\Training\ExamTraining2\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+D:\Training\ExamTraining2\CommandInterpreter\obj\Debug\CommandInterpreter.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining2\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+D:\Training\ExamTraining2\CommandInterpreter\obj\Debug\CommandInterpreter.pdb
+D:\Training\ExamTraining2\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\MasterNumber\bin\Debug\MasterNumber.exe.config
+D:\Training\MethodsHomework\MasterNumber\bin\Debug\MasterNumber.exe
+D:\Training\MethodsHomework\MasterNumber\bin\Debug\MasterNumber.pdb
+D:\Training\MethodsHomework\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\MasterNumber\obj\Debug\MasterNumber.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\MasterNumber\obj\Debug\MasterNumber.exe
+D:\Training\MethodsHomework\MasterNumber\obj\Debug\MasterNumber.pdb

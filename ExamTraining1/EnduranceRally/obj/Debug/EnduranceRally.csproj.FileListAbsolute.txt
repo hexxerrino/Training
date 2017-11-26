@@ -1,0 +1,7 @@
+D:\Training\ExamTraining1\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+D:\Training\ExamTraining1\EnduranceRally\bin\Debug\EnduranceRally.exe
+D:\Training\ExamTraining1\EnduranceRally\bin\Debug\EnduranceRally.pdb
+D:\Training\ExamTraining1\EnduranceRally\obj\Debug\EnduranceRally.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining1\EnduranceRally\obj\Debug\EnduranceRally.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining1\EnduranceRally\obj\Debug\EnduranceRally.exe
+D:\Training\ExamTraining1\EnduranceRally\obj\Debug\EnduranceRally.pdb

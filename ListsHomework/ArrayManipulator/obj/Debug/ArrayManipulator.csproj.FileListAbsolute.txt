@@ -1,0 +1,7 @@
+D:\Training\ListsHomework\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+D:\Training\ListsHomework\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+D:\Training\ListsHomework\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+D:\Training\ListsHomework\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Training\ListsHomework\ArrayManipulator\obj\Debug\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+D:\Training\ListsHomework\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

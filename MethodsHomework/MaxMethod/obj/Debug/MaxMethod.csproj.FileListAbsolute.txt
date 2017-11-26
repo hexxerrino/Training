@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\MaxMethod\bin\Debug\MaxMethod.exe.config
+D:\Training\MethodsHomework\MaxMethod\bin\Debug\MaxMethod.exe
+D:\Training\MethodsHomework\MaxMethod\bin\Debug\MaxMethod.pdb
+D:\Training\MethodsHomework\MaxMethod\obj\Debug\MaxMethod.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\MaxMethod\obj\Debug\MaxMethod.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\MaxMethod\obj\Debug\MaxMethod.exe
+D:\Training\MethodsHomework\MaxMethod\obj\Debug\MaxMethod.pdb

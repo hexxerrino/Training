@@ -1,0 +1,7 @@
+D:\Training\REGEXTraining\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+D:\Training\REGEXTraining\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+D:\Training\REGEXTraining\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+D:\Training\REGEXTraining\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csprojResolveAssemblyReference.cache
+D:\Training\REGEXTraining\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Training\REGEXTraining\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+D:\Training\REGEXTraining\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

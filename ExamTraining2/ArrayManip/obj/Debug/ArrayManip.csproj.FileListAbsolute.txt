@@ -1,0 +1,7 @@
+D:\Training\ExamTraining2\ArrayManip\bin\Debug\ArrayManip.exe.config
+D:\Training\ExamTraining2\ArrayManip\bin\Debug\ArrayManip.exe
+D:\Training\ExamTraining2\ArrayManip\bin\Debug\ArrayManip.pdb
+D:\Training\ExamTraining2\ArrayManip\obj\Debug\ArrayManip.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining2\ArrayManip\obj\Debug\ArrayManip.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining2\ArrayManip\obj\Debug\ArrayManip.exe
+D:\Training\ExamTraining2\ArrayManip\obj\Debug\ArrayManip.pdb

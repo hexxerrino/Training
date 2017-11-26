@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\Factoriel\bin\Debug\Factoriel.exe.config
+D:\Training\MethodsHomework\Factoriel\bin\Debug\Factoriel.exe
+D:\Training\MethodsHomework\Factoriel\bin\Debug\Factoriel.pdb
+D:\Training\MethodsHomework\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\Factoriel\obj\Debug\Factoriel.exe
+D:\Training\MethodsHomework\Factoriel\obj\Debug\Factoriel.pdb

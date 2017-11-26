@@ -1,0 +1,7 @@
+D:\Training\StringsHomework\StringsHomework\bin\Debug\StringsHomework.exe.config
+D:\Training\StringsHomework\StringsHomework\bin\Debug\StringsHomework.exe
+D:\Training\StringsHomework\StringsHomework\bin\Debug\StringsHomework.pdb
+D:\Training\StringsHomework\StringsHomework\obj\Debug\StringsHomework.csprojResolveAssemblyReference.cache
+D:\Training\StringsHomework\StringsHomework\obj\Debug\StringsHomework.csproj.CoreCompileInputs.cache
+D:\Training\StringsHomework\StringsHomework\obj\Debug\StringsHomework.exe
+D:\Training\StringsHomework\StringsHomework\obj\Debug\StringsHomework.pdb

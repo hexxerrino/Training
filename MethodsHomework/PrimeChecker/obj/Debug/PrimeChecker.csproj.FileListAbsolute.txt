@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+D:\Training\MethodsHomework\PrimeChecker\bin\Debug\PrimeChecker.exe
+D:\Training\MethodsHomework\PrimeChecker\bin\Debug\PrimeChecker.pdb
+D:\Training\MethodsHomework\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\PrimeChecker\obj\Debug\PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\PrimeChecker\obj\Debug\PrimeChecker.exe
+D:\Training\MethodsHomework\PrimeChecker\obj\Debug\PrimeChecker.pdb

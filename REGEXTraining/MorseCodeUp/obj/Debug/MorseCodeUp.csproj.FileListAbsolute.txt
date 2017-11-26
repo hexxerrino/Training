@@ -1,0 +1,7 @@
+D:\Training\REGEXTraining\MorseCodeUp\bin\Debug\MorseCodeUp.exe.config
+D:\Training\REGEXTraining\MorseCodeUp\bin\Debug\MorseCodeUp.exe
+D:\Training\REGEXTraining\MorseCodeUp\bin\Debug\MorseCodeUp.pdb
+D:\Training\REGEXTraining\MorseCodeUp\obj\Debug\MorseCodeUp.csprojResolveAssemblyReference.cache
+D:\Training\REGEXTraining\MorseCodeUp\obj\Debug\MorseCodeUp.csproj.CoreCompileInputs.cache
+D:\Training\REGEXTraining\MorseCodeUp\obj\Debug\MorseCodeUp.exe
+D:\Training\REGEXTraining\MorseCodeUp\obj\Debug\MorseCodeUp.pdb

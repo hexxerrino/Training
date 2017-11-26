@@ -1,0 +1,7 @@
+D:\Training\DictLINQPractice\DictLINQPractice\bin\Debug\DictLINQPractice.exe.config
+D:\Training\DictLINQPractice\DictLINQPractice\bin\Debug\DictLINQPractice.exe
+D:\Training\DictLINQPractice\DictLINQPractice\bin\Debug\DictLINQPractice.pdb
+D:\Training\DictLINQPractice\DictLINQPractice\obj\Debug\DictLINQPractice.csprojResolveAssemblyReference.cache
+D:\Training\DictLINQPractice\DictLINQPractice\obj\Debug\DictLINQPractice.csproj.CoreCompileInputs.cache
+D:\Training\DictLINQPractice\DictLINQPractice\obj\Debug\DictLINQPractice.exe
+D:\Training\DictLINQPractice\DictLINQPractice\obj\Debug\DictLINQPractice.pdb

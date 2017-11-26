@@ -1,0 +1,7 @@
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.exe.config
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.exe
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\bin\Debug\ObjectsAndClasses.pdb
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.csprojResolveAssemblyReference.cache
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.csproj.CoreCompileInputs.cache
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.exe
+D:\Training\ObjectsAndClasses\ObjectsAndClasses\obj\Debug\ObjectsAndClasses.pdb

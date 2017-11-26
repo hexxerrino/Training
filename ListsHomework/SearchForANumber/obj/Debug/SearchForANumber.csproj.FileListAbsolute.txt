@@ -1,0 +1,6 @@
+D:\Training\ListsHomework\SearchForANumber\bin\Debug\SearchForANumber.exe.config
+D:\Training\ListsHomework\SearchForANumber\bin\Debug\SearchForANumber.exe
+D:\Training\ListsHomework\SearchForANumber\bin\Debug\SearchForANumber.pdb
+D:\Training\ListsHomework\SearchForANumber\obj\Debug\SearchForANumber.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\SearchForANumber\obj\Debug\SearchForANumber.exe
+D:\Training\ListsHomework\SearchForANumber\obj\Debug\SearchForANumber.pdb

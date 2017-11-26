@@ -1,0 +1,7 @@
+D:\Training\ListsHomework\BombNums\bin\Debug\BombNums.exe.config
+D:\Training\ListsHomework\BombNums\bin\Debug\BombNums.exe
+D:\Training\ListsHomework\BombNums\bin\Debug\BombNums.pdb
+D:\Training\ListsHomework\BombNums\obj\Debug\BombNums.csprojResolveAssemblyReference.cache
+D:\Training\ListsHomework\BombNums\obj\Debug\BombNums.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\BombNums\obj\Debug\BombNums.exe
+D:\Training\ListsHomework\BombNums\obj\Debug\BombNums.pdb

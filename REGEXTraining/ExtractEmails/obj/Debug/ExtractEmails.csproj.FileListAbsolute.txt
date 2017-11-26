@@ -1,0 +1,7 @@
+D:\Training\REGEXTraining\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+D:\Training\REGEXTraining\ExtractEmails\bin\Debug\ExtractEmails.exe
+D:\Training\REGEXTraining\ExtractEmails\bin\Debug\ExtractEmails.pdb
+D:\Training\REGEXTraining\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Training\REGEXTraining\ExtractEmails\obj\Debug\ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Training\REGEXTraining\ExtractEmails\obj\Debug\ExtractEmails.exe
+D:\Training\REGEXTraining\ExtractEmails\obj\Debug\ExtractEmails.pdb

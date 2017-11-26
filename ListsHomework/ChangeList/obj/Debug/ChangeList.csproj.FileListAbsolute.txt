@@ -1,0 +1,7 @@
+D:\Training\ListsHomework\ChangeList\bin\Debug\ChangeList.exe.config
+D:\Training\ListsHomework\ChangeList\bin\Debug\ChangeList.exe
+D:\Training\ListsHomework\ChangeList\bin\Debug\ChangeList.pdb
+D:\Training\ListsHomework\ChangeList\obj\Debug\ChangeList.csprojResolveAssemblyReference.cache
+D:\Training\ListsHomework\ChangeList\obj\Debug\ChangeList.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\ChangeList\obj\Debug\ChangeList.exe
+D:\Training\ListsHomework\ChangeList\obj\Debug\ChangeList.pdb

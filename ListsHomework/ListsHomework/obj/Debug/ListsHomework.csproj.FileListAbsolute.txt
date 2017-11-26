@@ -1,0 +1,7 @@
+D:\Training\ListsHomework\ListsHomework\bin\Debug\ListsHomework.exe.config
+D:\Training\ListsHomework\ListsHomework\bin\Debug\ListsHomework.exe
+D:\Training\ListsHomework\ListsHomework\bin\Debug\ListsHomework.pdb
+D:\Training\ListsHomework\ListsHomework\obj\Debug\ListsHomework.csprojResolveAssemblyReference.cache
+D:\Training\ListsHomework\ListsHomework\obj\Debug\ListsHomework.csproj.CoreCompileInputs.cache
+D:\Training\ListsHomework\ListsHomework\obj\Debug\ListsHomework.exe
+D:\Training\ListsHomework\ListsHomework\obj\Debug\ListsHomework.pdb

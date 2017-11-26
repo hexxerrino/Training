@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\CubeProp\bin\Debug\CubeProp.exe.config
+D:\Training\MethodsHomework\CubeProp\bin\Debug\CubeProp.exe
+D:\Training\MethodsHomework\CubeProp\bin\Debug\CubeProp.pdb
+D:\Training\MethodsHomework\CubeProp\obj\Debug\CubeProp.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\CubeProp\obj\Debug\CubeProp.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\CubeProp\obj\Debug\CubeProp.exe
+D:\Training\MethodsHomework\CubeProp\obj\Debug\CubeProp.pdb

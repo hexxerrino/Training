@@ -1,0 +1,7 @@
+D:\Training\DictLINQPractice\FizEmails\bin\Debug\FizEmails.exe.config
+D:\Training\DictLINQPractice\FizEmails\bin\Debug\FizEmails.exe
+D:\Training\DictLINQPractice\FizEmails\bin\Debug\FizEmails.pdb
+D:\Training\DictLINQPractice\FizEmails\obj\Debug\FizEmails.csprojResolveAssemblyReference.cache
+D:\Training\DictLINQPractice\FizEmails\obj\Debug\FizEmails.csproj.CoreCompileInputs.cache
+D:\Training\DictLINQPractice\FizEmails\obj\Debug\FizEmails.exe
+D:\Training\DictLINQPractice\FizEmails\obj\Debug\FizEmails.pdb

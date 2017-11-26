@@ -1,0 +1,7 @@
+D:\Training\ExamTraining2\sweetdessert\bin\Debug\sweetdessert.exe.config
+D:\Training\ExamTraining2\sweetdessert\bin\Debug\sweetdessert.exe
+D:\Training\ExamTraining2\sweetdessert\bin\Debug\sweetdessert.pdb
+D:\Training\ExamTraining2\sweetdessert\obj\Debug\sweetdessert.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining2\sweetdessert\obj\Debug\sweetdessert.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining2\sweetdessert\obj\Debug\sweetdessert.exe
+D:\Training\ExamTraining2\sweetdessert\obj\Debug\sweetdessert.pdb

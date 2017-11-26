@@ -1,0 +1,7 @@
+D:\Training\MethodsHomework\GeaometryCalc\bin\Debug\GeaometryCalc.exe.config
+D:\Training\MethodsHomework\GeaometryCalc\bin\Debug\GeaometryCalc.exe
+D:\Training\MethodsHomework\GeaometryCalc\bin\Debug\GeaometryCalc.pdb
+D:\Training\MethodsHomework\GeaometryCalc\obj\Debug\GeaometryCalc.csprojResolveAssemblyReference.cache
+D:\Training\MethodsHomework\GeaometryCalc\obj\Debug\GeaometryCalc.csproj.CoreCompileInputs.cache
+D:\Training\MethodsHomework\GeaometryCalc\obj\Debug\GeaometryCalc.exe
+D:\Training\MethodsHomework\GeaometryCalc\obj\Debug\GeaometryCalc.pdb

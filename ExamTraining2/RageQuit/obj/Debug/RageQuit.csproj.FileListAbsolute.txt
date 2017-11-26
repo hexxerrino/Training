@@ -1,0 +1,7 @@
+D:\Training\ExamTraining2\RageQuit\bin\Debug\RageQuit.exe.config
+D:\Training\ExamTraining2\RageQuit\bin\Debug\RageQuit.exe
+D:\Training\ExamTraining2\RageQuit\bin\Debug\RageQuit.pdb
+D:\Training\ExamTraining2\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+D:\Training\ExamTraining2\RageQuit\obj\Debug\RageQuit.csproj.CoreCompileInputs.cache
+D:\Training\ExamTraining2\RageQuit\obj\Debug\RageQuit.exe
+D:\Training\ExamTraining2\RageQuit\obj\Debug\RageQuit.pdb
