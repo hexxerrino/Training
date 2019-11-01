@@ -4,33 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FibonaciNums
+namespace FibonacciNums
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int whichFibonaci = int.Parse(Console.ReadLine());
-            PrintFibonaci(whichFibonaci);
+            int whichFibonacci = int.Parse(Console.ReadLine());
+            PrintFibonacci(whichFibonacci);
         }
 
-        static void PrintFibonaci(int number)
+        static void PrintFibonacci(int number)
         {
             int filler = 0;
-            int[] fibonaci = new int[3]
+            int[] fibonacci = new int[3]
                 {
                     0, 1, 1
                 };
 
             for (int i = 1; i <= number; i++)
             {
-                fibonaci[2] = fibonaci[0] + fibonaci[1];
-                filler = fibonaci[1];
-                fibonaci[1] = fibonaci[2];
-                fibonaci[0] = filler;
+                fibonacci[2] = fibonacci[0] + fibonacci[1];
+                filler = fibonacci[1];
+                fibonacci[1] = fibonacci[2];
+                fibonacci[0] = filler;
             }
 
-            Console.WriteLine(fibonaci[2]);
+            Console.WriteLine(fibonacci[2]);
         }
     }
 }
