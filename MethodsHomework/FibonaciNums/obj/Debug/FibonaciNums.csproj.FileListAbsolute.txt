@@ -1,7 +1,0 @@
-D:\Training\MethodsHomework\FibonaciNums\bin\Debug\FibonaciNums.exe.config
-D:\Training\MethodsHomework\FibonaciNums\bin\Debug\FibonaciNums.exe
-D:\Training\MethodsHomework\FibonaciNums\bin\Debug\FibonaciNums.pdb
-D:\Training\MethodsHomework\FibonaciNums\obj\Debug\FibonaciNums.csprojResolveAssemblyReference.cache
-D:\Training\MethodsHomework\FibonaciNums\obj\Debug\FibonaciNums.csproj.CoreCompileInputs.cache
-D:\Training\MethodsHomework\FibonaciNums\obj\Debug\FibonaciNums.exe
-D:\Training\MethodsHomework\FibonaciNums\obj\Debug\FibonaciNums.pdb
